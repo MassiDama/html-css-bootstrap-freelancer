@@ -9,6 +9,12 @@
     background-color: #1abc9c;
     min-height: 400px;
 }
+
+.bianco {
+    background-color: white;
+    min-height: 400px;
+}
+
 img {
     width: 200px;
 }
