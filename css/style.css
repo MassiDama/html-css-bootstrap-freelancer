@@ -51,11 +51,6 @@ h1 {
     flex-grow: 0;
 }
 
-
-
-
-
-
 /* stili JUMBOTRON */
 
 .stellina i {
@@ -78,13 +73,6 @@ h2 {
     margin: 0 auto;
     margin-bottom: 20px;
 }
-
-
-
-
-
-
-
 
 
 /* stili about */
@@ -110,6 +98,11 @@ h2 {
     background-color: #3a546d;
     color: white;
     padding: 50px;
+}
+
+#bs {
+    text-decoration: none;
+    color: #1abc9c;
 }
 
 .icon-web i {
