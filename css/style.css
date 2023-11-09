@@ -96,8 +96,14 @@ h2 {
 }
 
 /* stili CONTACT */
+.send-button {
+    padding-top: 10px;
+}
 
-
+.btn-primary {
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
 
 /* stili footer */
 .info {
