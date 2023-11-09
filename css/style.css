@@ -44,3 +44,16 @@
     border-radius: 5px;
 }
 
+
+/* stili footer */
+.info {
+    background-color: #3a546d;
+    color: white;
+    padding: 90px;
+}
+
+.copyright {
+    background-color: hsl(210, 29%, 24.3%);
+    color: white;
+    padding: 50px;
+}
