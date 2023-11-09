@@ -20,8 +20,35 @@
     padding: 20px;
 }
 
+.avatar-img {
+    padding-bottom: 20px;
+}
+
 .avatar {
     width: 250px;
+}
+
+h1 {
+    font-size: 60px;
+    padding-bottom: 10px;
+}
+
+
+/* stii nav-bar */
+.nav-head {
+    color: white;
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
 }
 
 
@@ -31,7 +58,21 @@
 
 /* stili JUMBOTRON */
 
+.stellina i {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.jumbotron span {
+    font-size: 25px;
+}
+
 /* stili PORTFOLIO */
+h2 {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
 .card {
     width: 90%;
     margin: 0 auto;
@@ -50,7 +91,12 @@
 .download {
     border: 1px solid white;
     border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
 }
+
+/* stili CONTACT */
+
 
 
 /* stili footer */
