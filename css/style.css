@@ -1,9 +1,17 @@
 /* stili generali container */
+.ramo {
+    padding: 40px 0;
+}
+
 .jumbotron, .about {
     background-color: #1abc9c;
     color: white;
 }
 
+.generic-container {
+    width: 80%;
+    margin: 0 auto;
+}
 
 /* stili HEADER */
 .head {
@@ -49,11 +57,11 @@
 .info {
     background-color: #3a546d;
     color: white;
-    padding: 90px;
+    padding: 50px;
 }
 
 .copyright {
     background-color: hsl(210, 29%, 24.3%);
     color: white;
-    padding: 50px;
+    padding: 30px;
 }
