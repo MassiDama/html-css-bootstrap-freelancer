@@ -112,6 +112,11 @@ h2 {
     padding: 50px;
 }
 
+.icon-web i {
+    font-size: 40px;
+    padding-right: 10px;
+}
+
 .copyright {
     background-color: hsl(210, 29%, 24.3%);
     color: white;
